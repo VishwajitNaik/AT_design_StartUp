@@ -12,6 +12,13 @@ const Portfolio_data = [
     totalLike: "750",
     title: "Mobile app landing design & maintain",
     image: "https://th.bing.com/th/id/OIP.ZNDWwAGZPy8F6lRTjPKx_wHaEK?w=283&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+  },
+  {
+    id: 2,
+    category: "Mechanical Services",
+    totalLike: "750",
+    title: "Mobile app landing design & maintain",
+    image: "https://th.bing.com/th/id/OIP.ZNDWwAGZPy8F6lRTjPKx_wHaEK?w=283&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7",
   }
 ]
 export default Portfolio_data
