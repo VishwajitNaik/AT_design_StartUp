@@ -1,0 +1,20 @@
+.input{
+    height: 90px;
+    margin-top: 10px;
+}
+
+.position{
+    position: relative;
+    margin-left: 25%;
+  }
+
+.btn-pos{
+    margin-top: 60px;
+}
+
+.sz{
+    margin-left: 30%;
+    font-weight: 800;
+    font-size: larger;
+    /* background-color: rgb(183, 172, 172); */
+}

@@ -1,0 +1,73 @@
+const Portfolio_data = [
+  {
+    id: 1,
+    category: "3D",
+    totalLike: "600",
+    title: "3D modelling",
+    image: "https://th.bing.com/th/id/OIP.ZNDWwAGZPy8F6lRTjPKx_wHaEK?w=283&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+  },
+  {
+    id: 2,
+    category: "APPLICATION",
+    totalLike: "750",
+    title: "Mechanical Drafting",
+    image: "https://th.bing.com/th/id/OIP.ZNDWwAGZPy8F6lRTjPKx_wHaEK?w=283&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+  },
+  {
+    id: 3,
+    category: "PHOTOSHOP",
+    totalLike: "630",
+    title: "Assembly Design ",
+    image: "https://th.bing.com/th/id/OIP.ZNDWwAGZPy8F6lRTjPKx_wHaEK?w=283&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+  },
+  {
+    id: 4,
+    category: "FIGMA",
+    totalLike: "360",
+    title: "Digitalization/Conversion",
+    image: "https://th.bing.com/th/id/OIP.ZNDWwAGZPy8F6lRTjPKx_wHaEK?w=283&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+  },
+  {
+    id: 5,
+    category: "WEB DESIGN",
+    totalLike: "280",
+    title: "Design for tecnology & services",
+    image: "https://th.bing.com/th/id/OIP.ZNDWwAGZPy8F6lRTjPKx_wHaEK?w=283&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+  },
+  {
+    id: 6,
+    category: "WEB DESIGN",
+    totalLike: "690",
+    title: "App for tecnology & services",
+    image: "https://th.bing.com/th/id/OIP.ZNDWwAGZPy8F6lRTjPKx_wHaEK?w=283&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+  },
+  {
+    id: 6,
+    category: "WEB DESIGN",
+    totalLike: "690",
+    title: "App for tecnology & services",
+    image: "https://th.bing.com/th/id/OIP.ZNDWwAGZPy8F6lRTjPKx_wHaEK?w=283&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+  },
+  {
+    id: 6,
+    category: "WEB DESIGN",
+    totalLike: "690",
+    title: "App for tecnology & services",
+    image: "https://th.bing.com/th/id/OIP.ZNDWwAGZPy8F6lRTjPKx_wHaEK?w=283&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+  },
+  {
+    id: 6,
+    category: "WEB DESIGN",
+    totalLike: "690",
+    title: "App for tecnology & services",
+    image: "https://th.bing.com/th/id/OIP.ZNDWwAGZPy8F6lRTjPKx_wHaEK?w=283&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+  },
+  {
+    id: 6,
+    category: "WEB DESIGN",
+    totalLike: "690",
+    title: "App for tecnology & services",
+    image: "https://th.bing.com/th/id/OIP.ZNDWwAGZPy8F6lRTjPKx_wHaEK?w=283&h=180&c=7&r=0&o=5&dpr=1.4&pid=1.7",
+  },
+]
+export default Portfolio_data
